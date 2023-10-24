@@ -5,7 +5,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Soneta.Business.Forms">
-      <HintPath>D:\Program Files (x86)\Soneta\enova365 2304.3.5.0\Soneta.Business.Forms.dll</HintPath>
+      <HintPath>D:\Program Files (x86)\Soneta\enova365 2306.2.7-net\Soneta.Business.Forms.dll</HintPath>
     </Reference>
     <Reference Include="System.Windows.Forms" />
   </ItemGroup>
