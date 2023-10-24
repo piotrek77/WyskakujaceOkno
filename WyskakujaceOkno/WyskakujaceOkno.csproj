@@ -3,4 +3,10 @@
   <PropertyGroup>
     <TargetFramework>$(SonetaTargetFramework)</TargetFramework>
   </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Soneta.Business.Forms">
+      <HintPath>D:\Program Files (x86)\Soneta\enova365 2304.3.5.0\Soneta.Business.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+  </ItemGroup>
 </Project>
